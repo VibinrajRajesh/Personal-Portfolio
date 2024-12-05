@@ -1,3 +1,4 @@
+@import url("media.css");
 /* width */
 ::-webkit-scrollbar {
   width: 10px;
@@ -48,6 +49,7 @@
 body {
   font-family: "Poppins";
   background-color: var(--background-color);
+  overflow-x:hidden;
 }
 
 .navbar{
@@ -458,43 +460,4 @@ footer {
   display: inline-block;
   font-size: 16px;
   border-radius: 10px;
-}
-
-@media only screen and (max-width: 600px) {
-  .navbar-nav{
-    text-align: center;
-    margin-left:1rem;
-  }
-  #home{
-    padding-top:66px;
-  }
-  .content1{
-    font-size: 20px;
-  }
-  .head-name{
-    font-size: 40px;
-  }
-  .content2{
-    font-size:24px;
-  }
-  .cbtn{
-    width:40%;
-  }
-  .content3{
-    text-align: center;
-    padding:2rem;
-  }
-
-  #about{
-    height:166vh;
-    padding-top:80px;
-  }
-
-  #services{
-    margin-top:370px;
-  }
-
-  .card1{
-    margin-top:2rem;
-  }
 }

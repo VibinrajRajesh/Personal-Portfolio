@@ -1,3 +1,8 @@
+window.addEventListener("scroll", () => {
+    const navbar = document.querySelector(".navbar");
+    navbar.style.top = "0"; // Ensures it stays fixed
+  });
+
 function sendMail(event) {
     event.preventDefault();  // Prevent form submission and page reload
 
