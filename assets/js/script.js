@@ -131,12 +131,3 @@ window.onclick = function(event) {
     modal.style.display = "none";
   }
 }
-
-function downloadPDF(fileName) {
-    // Replace 'path/to/' with the folder where your PDFs are stored
-    const pdfURL = `path/to/${fileName}`;
-    const link = document.createElement('a');
-    link.href = pdfURL;
-    link.download = fileName; // Sets the file name for download
-    link.click();
-}

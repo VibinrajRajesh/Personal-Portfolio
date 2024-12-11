@@ -45,14 +45,14 @@
         {
             "name": "Amazon Cell Reviews using NLP",
             "category":"Data Science",
-            "link": "https://github.com/VibinrajRajesh/Ecommerce-Sales-Dashboard.git",
+            "link": "https://github.com/VibinrajRajesh/Amazon-Cell-Reviews-using-NLP.git",
             "image": "./Thumbnail/DS Amazon Cell Review.jpg",
             "description": "I conducted a comprehensive sales analysis using Python, leveraging libraries like pandas and matplotlib for data manipulation and visualization. Key insights were derived to understand trends, identify growth areas, and optimize performance."
         },
         {
             "name": "Sales Data Analysis using Python",
             "category":"Data Analyst",
-            "link": "https://github.com/VibinrajRajesh/Ecommerce-Sales-Dashboard.git",
+            "link": "https://github.com/VibinrajRajesh/Sales-Data-Analysis.git",
             "image": "./Thumbnail/DA Sales Data Anlysis.jpg",
             "description": "I conducted a comprehensive sales analysis using Python, leveraging libraries like pandas and matplotlib for data manipulation and visualization. Key insights were derived to understand trends, identify growth areas, and optimize performance."
         },
@@ -66,7 +66,7 @@
         {
             "name": "NGO Website",
             "category":"Web Development",
-            "link": "https://github.com/VibinrajRajesh/Ecommerce-Sales-Dashboard.git",
+            "link": "https://github.com/VibinrajRajesh/NGO-Website.git",
             "image": "./Thumbnail/WD NGO.jpg",
             "description": "A platform dedicated to driving social change through the power of community support and compassion. With secure and easy donation options via Razorpay, your contribution directly helps those in need."
         },
