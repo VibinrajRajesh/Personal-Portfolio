@@ -29,20 +29,6 @@
             "description": "I created a dynamic Zomato Sales Dashboard in Power BI, offering real-time insights into sales performance, trends, and customer behavior. This tool enables data-driven decision-making and optimizes operational efficiency."
         },
         {
-            "name": "Laptop Price Prediction",
-            "category":"Data Science",
-            "link": "https://github.com/VibinrajRajesh/Ecommerce-Sales-Dashboard.git",
-            "image": "./Thumbnail/DS Laptop Price Predictor.png",
-            "description": "I conducted a comprehensive sales analysis using Python, leveraging libraries like pandas and matplotlib for data manipulation and visualization. Key insights were derived to understand trends, identify growth areas, and optimize performance."
-        },
-        {
-            "name": "Music Genre Classification",
-            "category":"Data Science",
-            "link": "https://github.com/VibinrajRajesh/Ecommerce-Sales-Dashboard.git",
-            "image": "./Thumbnail/DS Music Genre Classification.png",
-            "description": "I conducted a comprehensive sales analysis using Python, leveraging libraries like pandas and matplotlib for data manipulation and visualization. Key insights were derived to understand trends, identify growth areas, and optimize performance."
-        },
-        {
             "name": "Amazon Cell Reviews using NLP",
             "category":"Data Science",
             "link": "https://github.com/VibinrajRajesh/Amazon-Cell-Reviews-using-NLP.git",
